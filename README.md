@@ -2,7 +2,7 @@
 
 I'm **Raphaël Schröder**, a developer & first year student @ [UTT](https://utt.fr) 
 
---
+---
 
 ## ☄️ Current Projects
 
@@ -12,7 +12,7 @@ I'm **Raphaël Schröder**, a developer & first year student @ [UTT](https://utt
 | 💻 | [**Blocks**](https://github.com/Blockshub) | Open source libraries for school services | **10+ libraries** |
 | 🎭 | [**Zero**](https://github.com/0xZeroSec) | We found vulnerabilities in school services and we report it | **6+ CVE** |
 
---
+---
 
 ## 💌 Contact
 
